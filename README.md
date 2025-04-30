@@ -23,6 +23,6 @@ After a short break, I started my career as a technical administrator for forums
 <h3>My contacts</h3>
 You can contact with me via: <br />
 <ul>
-<li><a href='https%3A%2F%2Fdiscordapp.com%2Fusers%2F1028296457779937320'>Discord</a></li>
+<li><a href='https://discordapp.com/users/1028296457779937320'>Discord</a></li>
 <li><a href='https://t.me/d4riuszzs'>Telegram</a></li>
 </ul>
