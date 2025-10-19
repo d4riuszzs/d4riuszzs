@@ -19,7 +19,7 @@ After a short break, I started my career as a technical administrator for forums
   <b>My position: </b>Web & CEF Developer, Temporary-Acting Team Lead <br /><br />
   I am a person in charge of developing all websites of the project. Also, I am developing CEF interfaces and maintain all VPS that belong to this project.<br />
   My web development for New York Times includes developing two websites (main website & ACP) and also deploying and maintaining several CMS (phpBBex, ColibriSM, Xenforo, etc.) <br />
-  Temporary, I manage all server-side development of the project. For a short period of time, I was in charge of fixing bugs in Pawn. <br /><br />
+  Temporarily, I manage all server-side development of the project. For a short period of time, I was in charge of fixing bugs in Pawn. <br /><br />
   <img alt='NYT' src='https://i.imgur.com/jJ4LgVp.png' width='600' height='auto' />
 </blockquote>
 
