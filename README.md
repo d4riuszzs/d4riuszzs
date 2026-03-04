@@ -19,7 +19,7 @@ After a short break, I started my career as a technical administrator for forums
   <b>My position: </b>Tech Lead, Web & CEF & Pawn Developerr<br /><br />
   I was a person in charge of server development: my tasks included maintaining all servers that belonged to this project and controlling quality of server-side code.<br />
   During my partnership with NYT, I also was developing their websites and CEF interfaces. <br />
-  My web development for New York Times includes developing two websites (main website & ACP) and also deploying and maintaining several CMS (phpBBex, ColibriSM, Xenforo, etc.) <br /><br />
+  My web development for New York Times included developing two websites (main website & ACP) and also deploying and maintaining several CMS (phpBBex, ColibriSM, Xenforo, etc.) <br /><br />
   <img alt='NYT' src='https://i.imgur.com/jJ4LgVp.png' width='600' height='auto' />
 </blockquote>
 
